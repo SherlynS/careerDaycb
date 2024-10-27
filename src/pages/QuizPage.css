@@ -1,0 +1,62 @@
+/* QuizPage.css */
+
+/* Header style */
+header {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #f8f9fa; /* Light gray background */
+  }
+  
+  /* Title style */
+  .some-class {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  /* Question container style */
+  .question-container {
+    padding: 20px;
+    border: 1px solid #ced4da; /* Gray border */
+    border-radius: 8px;
+    background-color: #fff; /* White background */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow */
+    margin: 5%;
+    text-align: center;
+  }
+  
+  /* Question text style */
+  .question-container h3 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  /* Options buttons style */
+  .question-container .btn {
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+  }
+  
+  /* Progress bar style */
+  .progressBar {
+    margin-top: 20px;
+    margin: 5%;
+  }
+  
+  /* Continue button style */
+  .continue-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff; /* Blue */
+    border: none;
+    border-radius: 5px;
+    color: #fff; /* White text */
+    text-align: center;
+    
+  }
+  
+  .continue-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }

@@ -1,0 +1,109 @@
+.career_title{
+  font-family: 'Anek Bangla', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 20px
+  
+}
+
+.career_button {
+    background-color: #ffffff  !important;
+    color: #000000;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: 2px solid #000000; 
+    border-radius:30px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 20px;
+  }
+  .career_button:hover {
+    background-color: #987dea !important; /* Change background color on hover to purple */
+    color: #ffffff; /* Change text color on hover */
+}
+
+.submit-button {
+    margin-right: 10px; /* Adjust the value as needed */
+    background-color: #ffffff  !important;
+    color: #000000;
+    border: 2px solid #000000;
+    font-weight: bold;
+    border-radius:30px;
+    font-size: 16px;
+  }
+
+/* CareerPage.css */
+.custom-table {
+  width: 85%; /* Adjust the percentage to make the table smaller */
+  /* color: #6d6bd3;
+  background-color: #E3DAFF; */
+  margin: 0 auto; /* Center the table */
+}
+
+.custom-table tr:nth-child(odd) {
+  /* background-color: #987dea Light purple color for odd rows */
+}
+
+.custom-table tr:nth-child(even) {
+  background-color: white; /* White color for even rows */
+}
+
+/* Set the text color to white for better contrast */
+.custom-table th {
+  color: rgb(0, 0, 0);
+}
+.custom-table td{
+  color: #000000;
+}
+/* Additional styling for the container div */
+.table {
+  margin: 30px; /* Add some margin around the table */
+}
+.search-bar {
+  width: 100%; /* Set the width to 100% */
+  padding: 8px 12px; /* Adjust padding as needed */
+  border-radius: 5px; /* Add border radius for rounded corners */
+  border: 1px solid #000000; /* Add border */
+}
+
+.custom-dropdown-button:hover {
+  background-color: #987dea;
+  color: #ffffff;
+}
+
+.dropdown-industry button{
+  background-color: #ffffff  !important;
+    color: #000000  !important;
+    font-size: 16px !important;
+    padding: 10px 20px  !important;
+    border: 2px solid #000000 !important; 
+    border-radius:30px  !important;
+    cursor: pointer !important;
+    font-weight: bold  !important;
+    margin-left: 20px !important;
+    margin-top: 20px;
+    white-space: nowrap !important;
+    min-width: 120px !important;
+}
+.dropdown-menu-scroll {
+  max-height: 200px; /* Set max height for the dropdown menu */
+  overflow-y: auto; /* Enable vertical scrolling if needed */
+}
+
+.imperial-script-regular {
+  font-family: "Imperial Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+
+  font-weight: 400;
+  src: url('../fonts/JosefinSans-VariableFont_wght.ttf') format('truetype');
+}
+.some-class {
+  font-family: 'Josefin Sans', sans-serif;
+  
+  font-weight: 600; /* Ensure correct weight */
+}

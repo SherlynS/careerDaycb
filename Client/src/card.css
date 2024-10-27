@@ -1,0 +1,24 @@
+.custom-card {
+    width: 50rem;
+    background-color: #f0f0f0;
+}
+
+.custom-card-title {
+    font-weight: bold;
+}
+
+.purple-background .col:last-child {
+    background-color: rgb(204, 181, 204);
+}
+
+.salary-amount {
+    font-weight: bold; /* Make the text bold */ 
+    font-size: 20px ;
+    display: block;/* Add any other styles you want for the salary amount */
+  }
+
+.education-degreed {
+    font-weight: bold; /* Make the text bold */ 
+    font-size: 18px ;
+    display: block;/* Add any other styles you want for the salary amount */
+}

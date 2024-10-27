@@ -1,0 +1,23 @@
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin-top: 20px; 
+  }
+  
+  .pagination-container button {
+    background: none; 
+    border: none; 
+    margin: 0 2px; 
+    padding: 2px 5px;
+    cursor: pointer;
+    font-size: 14px; 
+  }
+  
+  .pagination-container button:hover {
+    background: rgba(0, 0, 0, 0.1); 
+  }
+  
+  .pagination-container .active {
+    font-weight: bold;
+  }

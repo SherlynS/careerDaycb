@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+.color-nav{
+    color:white;
+    background-color: #6D6BD3;
+    font-family: 'Alata', sans-serif!important;
+    font-size: 22px;
+  
+}
+
+.navbarcolor{
+    color: white!important;
+    font-family:'Alata', sans-serif!important;
+    font-size: 22px;
+}
+.navbar-brand {
+    font-family:'Alata', sans-serif!important;
+}
+.navbarcolor::after {
+    content: " | ";
+}
+
+.navbarcolorlast{
+    color: white!important;
+    font-family:'Alata', sans-serif!important;
+    font-size: 22px;
+  
+}
+

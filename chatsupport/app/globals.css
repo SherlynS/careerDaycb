@@ -1,0 +1,15 @@
+:root {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;  
+  /*background-image: url("https://i.makeagif.com/media/12-15-2017/S42GFZ.gif");*/
+  background-color: #5D3FD3;
+  background-size: cover;
+  background-position: center;
+}
+:read-write{
+  font-family: 'Times New Roman', Times, serif;
+}
+button{
+  background-color: #4CAF50;
+}

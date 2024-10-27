@@ -1,0 +1,18 @@
+.card-description {
+    line-height: 1.5; /* Adjust line height for spacing */
+}
+
+.card-description {
+    margin-bottom: 20px; /* Adjust spacing as needed */
+}
+
+.headline-section {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.roadmap-headline {
+    color: #d43076; /* or any color you prefer */
+    font-size: 24px;
+    font-weight: bold;
+}
